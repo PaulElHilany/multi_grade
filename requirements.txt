@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pdf2image
+qrcode
+reportlab
+Pillow
+kivy
+plyer
+pyjnius

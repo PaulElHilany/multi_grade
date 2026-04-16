@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / packaging
+build/
+dist/
+
+# Keep this line only if you do NOT want to track PyInstaller spec files
+# *.spec
+
+# Executables / packages
+*.exe
+*.apk
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Generated outputs
+generated_test_*/
+generated_results_*/
+error_messages/
+
+# Local backup/archive material
+/extra_files/
+
+# Ignore specific local/development files
+/grader/minimal_test.py
+
+# LaTeX build artifacts
+*.aux
+*.out
+*.toc
+*.synctex.gz
