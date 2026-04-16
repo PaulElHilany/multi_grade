@@ -339,6 +339,31 @@ The full user guide is available in:
 
 - `user_manual.pdf`
 
+## Downloads
+
+Prebuilt application files are available from the GitHub Releases page:
+
+- Windows answer sheet generator executable
+- Windows batch grader executable
+- Android mobile grading APK
+
+Latest release:
+
+- [MultiGrade Releases](https://github.com/PaulElHilany/multi_grade/releases)
+
+Typical release assets include:
+
+- `MultiGrade-answer-sheet-generator-v1.0.exe`
+- `MultiGrade-batch-grader-windows-v1.0.exe`
+- `MultiGrade-mobile-android-v1.0.apk`
+
+### Notes
+
+- Windows may show a SmartScreen warning for unsigned executables.
+- Android users may need to allow installation from unknown sources to install the APK manually.
+- Source code and documentation remain available in this repository.
+
+
 ## Contact
 
 - Email: boulos.hilani@gmail.com
